@@ -4,8 +4,7 @@
 background-repeat: no-repeat;}
 
 body {
-      font: 400 15px Avanta Garde, sans-serif;
-      line-height: 1.8;
+      font: 400 15px, sans-serif;
       color: black;
   }
   
@@ -18,6 +17,7 @@ body {
     color: rgb(29, 29, 29);
     
   }
+  
   h2 {
       font-size: 28px; 
       color: black;   
@@ -39,7 +39,7 @@ body {
       background-color: black;
       color: #fff;
       padding: 100px 25px;
-      font-family: Montserrat, sans-serif;
+      font-family: Arial, Helvetica, sans-serif;
       background-image: url(../Bilder/hg.jpg);
       background-repeat: repeat-x;
   }
@@ -184,6 +184,7 @@ width: 270px;}
 
 
 }
+
 
 
 
